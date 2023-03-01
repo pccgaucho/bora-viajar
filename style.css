@@ -1,0 +1,51 @@
+.container {
+    border: solid #FF0000 3px;
+}
+
+.cabecalho {
+    padding: 50px 20px 10px 25px;
+}
+#mochila {
+    width: 70px;
+    height: 70px;
+}
+
+.titulo {
+    display: inline-block;
+}
+
+.conteudo {
+    display: inline-flex;
+    width: 100%;
+}
+
+.esquerda {
+    flex: 1;
+    margin: 0 1px 2px 25px;
+    border: solid #FFA500 3px; 
+}
+
+.direita {
+    flex: 2;
+    margin: 0 25px 2px 1px;
+    border: solid #FF0000 3px;  
+}
+.rodape {
+    margin: 2px 25px 4px 25px;
+    border: solid #FFA500 3px;    
+}
+
+.conteudo p {
+    margin-top: 0;
+    margin-bottom: 200px;
+}
+
+.rodape p {
+    margin-top: 0;
+    margin-bottom: 50px;    
+}
+
+
+
+
+
